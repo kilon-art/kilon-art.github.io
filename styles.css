@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(229, 160, 160);
+}
+
+/*Header/*/
+
+header a {
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+/*Section/*/
+
+section.home-section div {
+    display: inline-block;
+    background-color: rgb(150, 214, 214);
+    padding: 10%;
+}
+
